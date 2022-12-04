@@ -1,0 +1,11 @@
+.hola {
+  padding-top: 40vh;
+  text-align: center;
+  z-index: -50;
+  background-color: transparent;
+}
+
+.canvas {
+  position: relative;
+  z-index: -3 !important;
+}
